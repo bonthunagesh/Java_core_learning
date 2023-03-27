@@ -5,7 +5,7 @@ public class Static_Methods {
 
     static void static_method(){
 
-        System.out.println(" No need for object declarion");
+        System.out.println(" No need for object declarion, This is coming from Static method");
 
     }
 
